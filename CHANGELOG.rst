@@ -3,8 +3,8 @@ Changelog for package occupancy_grid_utils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-Forthcoming
------------
+0.0.10 (2016-04-19)
+-------------------
 * new maintainer
 * Contributors: Marc Hanheide
 
